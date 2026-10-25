@@ -3,7 +3,7 @@ Nice to meet you. I’m Fran.
 
 You might be here as a family member or friend of someone who’s experienced psychosis, or perhaps you’ve had unusual experiences yourself.
 
-These days it’s completely normal to look someone up online, especially when you’re thinking about talking to them about something as important as mental health. I wanted there to be something here in case you do. It’s understandable to want a sense of who you might be working with.
+These days, it’s completely normal to look someone up online to get a sense of who you might be working with. I wanted there to be something here in case you do, so I made this website.
 
 
 ## My training and experience
@@ -13,17 +13,19 @@ I’m also trained in Cognitive Behavioural Family Intervention for Psychosis, w
 
 Alongside this, I’m an assistant lecturer on the CBFI course at King’s College London, as part of a wider national training initiative funded by NHS England.
 
-I have completed a PGCert in Systemic Psychotherapy at the Tavistock also have an interest in systemic psychotherapy and offer these kinds of sessions also. If you want these kind of sessions, just ask and we can have a chat about what they might look like.
+I also offer systemic psychotherapy sessions. I completed my Foundation PGCert in Systemic Psychotherapy at the Tavistock in 2025, followed by my Intermediate PGCert at King’s College London in 2026. If you’re interested, just ask and we can chat about what sessions might look like.
 
 ## A bit about me
-I spend most of the working week with families and couples doing family sessions. I became a mental health social worker because of my own experiences and those of people close to me. I’m always learning and training to improve my work with families. I’m currently studying for my intermediate PGCert in Systemic Psychotherapy at the King’s College London.
+I spend most of the working week with families and couples doing family sessions. I became a mental health social worker because of my own experiences and those of people close to me. I’m always learning and training to improve my work with families. At the moment, I’m spending one day a fortnight with Hackney Children’s Mental Health Services, learning from their approaches to working with families.
 
 Outside of work, I love a good cup of tea and a chocolate biscuit, enjoy 60s music, and relaxing in the bath with candles. On weekends, you’ll often find me at car boot sales looking for hidden treasures.
 
 ## What are family sessions?
-Family sessions involve meeting with you and your family and/or close friends who support you, usually every two weeks, for around 14 sessions.
+Family sessions involve meeting with you and your family and/or close friends who support you, usually every two weeks over a few months. You don’t have to commit to all of them. It’s normal to feel hesitant, so I usually suggest just trying one and seeing how it feels.
 
-There’s strong evidence that when people who’ve experienced psychosis take part in family sessions, they’re significantly less likely to have another episode, less likely to be readmitted to hospital, and more likely to experience better outcomes in their day-to-day lives. That’s why the NHS funds these sessions, because they work.
+Family sessions are recommended for everyone who has experienced psychosis, in the same way medication is recommended. Being offered them doesn’t mean anyone thinks your family needs extra help. It’s simply part of standard care.
+
+There’s strong evidence that when people who’ve experienced psychosis take part in family sessions, they’re significantly less likely to have another episode, less likely to be readmitted to hospital, and more likely to experience better outcomes in their day-to-day lives.
 
 
 This approach is backed by a large body of research. [Here](/evidence/) is the evidence.
