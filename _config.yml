@@ -30,7 +30,7 @@ sass:
   style: compressed
 
 # Site settings
-url: "https://franceslester.com" # the base hostname & protocol for your site
+url: "https://franlester.com" # the base hostname & protocol for your site
 baseurl: ""
 repository: TODO
 permalink: /:title/
